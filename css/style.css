@@ -1,0 +1,9 @@
+
+
+.row [class*="col"] {
+    background-color: rgba(128, 0, 128, 0.6);
+    border: dotted 2px rgba(128, 0, 128, 0.8);
+
+    padding: 24px 8px;
+}
+
